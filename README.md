@@ -1,4 +1,2 @@
 # SmartHomeAssistant
-# SmartHomeAssistant
-# SmartHomeAssistant
-# SmartHomeAssistant
+
